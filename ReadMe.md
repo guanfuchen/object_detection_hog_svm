@@ -19,7 +19,7 @@ UIUC Image Database for Car Detection
 ---
 ## 参考资料
 
-[UIUC Image Database for Car Detection](https://www.youtube.com/watch?v=SPXocFBjr70) Car汽车数据集。
+[UIUC Image Database for Car Detection](http://cogcomp.org/Data/Car) Car汽车数据集。
 
 [Object Detection using HOG-Linear SVM in Python](https://www.youtube.com/watch?v=SPXocFBjr70) HOG SVM汽车检测视频演示。
 
@@ -32,3 +32,5 @@ UIUC Image Database for Car Detection
 [Non-Maximum Suppression for Object Detection in Python](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
 
 [YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch) YOLO实现原理。
+
+[Face Data](http://cbcl.mit.edu/software-datasets/FaceData2.html) cbcl.mit人脸数据集。
